@@ -1,0 +1,88 @@
+
+* {
+  box-sizing: border-box;
+  
+}
+
+.brand {
+  color: black ;
+}
+body {
+  margin: 0;
+  font-family: Arial;
+}
+.menu{
+  margin: 1rem;
+  font-size: 1.5rem;
+}
+.footer{
+  background-color: black;
+  color: white;
+  font-size: 1.5rem;
+  width: 100%;
+  height:auto;
+  clear: both;
+  float: none;
+}
+.footer ul{
+  padding:0;
+    list-style:none;
+}
+.footer a{
+  color : white;
+  text-decoration:none;
+  opacity:0.8;
+}
+.footer a:hover {
+  opacity:1;
+}
+
+.site-footer__legal-info {
+   
+   
+    border-top: 1px solid rgb(224, 215, 215);
+    display:inline-flexbox;
+    text-align: center;
+    background-color: black;
+    color:ivory;
+    font-size: 12px;
+}
+h1{
+    color: black;
+    font-family:sans-serif;
+    /*font-size: larger;*/
+    text-align: center;
+}
+.para{
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: cursive;
+}
+.image {
+  
+    transition: transform .2s;
+  width: 100%;
+  height:auto;
+
+}
+
+
+.logo{
+
+  
+  width:50px;
+ height:auto;
+}
+.icon{
+  background-color: antiquewhite;
+  color: antiquewhite;
+}
+header{
+  margin-top: 1.0rem;
+}
+.container{
+width: 100%;
+height:auto;
+
+}

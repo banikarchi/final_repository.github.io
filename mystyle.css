@@ -1,8 +1,7 @@
 .container1 {
-max-width:1400px;
-max-height:1200px;
-position:fixed;
-
+width:95%;
+  max-width:1400px;
+height:auto;
 }
 
 * {

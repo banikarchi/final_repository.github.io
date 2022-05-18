@@ -4,13 +4,7 @@ max-height:1200px;
 
 
 }
-@media screen and (min-width: 2500px) {
-  .container1{
-    max-width:1400px;
-    max-height:1200px;
-    border-top:500px;
-  }
-}
+
 * {
   box-sizing: border-box;
   

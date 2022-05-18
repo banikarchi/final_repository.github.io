@@ -1,7 +1,7 @@
 .container1 {
 max-width:1400px;
 max-height:1200px;
-position:absolute;
+position:fixed;
 
 }
 

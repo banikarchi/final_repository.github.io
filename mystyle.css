@@ -1,4 +1,9 @@
+.container1 {
+max-width:1400px;
+max-height:1200px;
 
+
+}
 * {
   box-sizing: border-box;
   

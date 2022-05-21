@@ -1,8 +1,3 @@
-.container1 {
-width:95%;
-max-width:1400px;
-height:auto;
-}
 
 * {
   box-sizing: border-box;
@@ -86,12 +81,13 @@ h1{
 header{
   margin-top: 1.0rem;
 }
-
-<<<<<<< HEAD
-}
-body{
+.container{
   width: 100%;
-  height: 100%;
+  height:auto;
 }
-=======
->>>>>>> a938dcad86c4549dabe6501984e9d7880d4225d9
+.grid_image{
+  max-width:1450px;
+  height:auto;
+  margin-left: auto;
+  margin-right: auto;
+}

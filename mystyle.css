@@ -54,10 +54,11 @@ h1{
     text-align: center;
 }
 .para{
-    text-align: center;
+    text-align:start;
     font-size: 15px;
     font-weight: lighter;
     font-family: cursive;
+    text-align-last: center;
 }
 .image {
   

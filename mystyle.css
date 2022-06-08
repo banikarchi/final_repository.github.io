@@ -3,7 +3,11 @@
   box-sizing: border-box;
   
 }
-
+.b_name{
+  font-size: larger;
+  margin-left: 5%;
+  padding-left: 5%;
+}
 .brand {
   color: black ;
 }

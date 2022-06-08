@@ -4,9 +4,8 @@
   
 }
 .b_name{
-  font-size: larger;
-  margin-left: 5%;
-  padding-left: 5%;
+  font-size:xx-large;
+
 }
 .brand {
   color: black ;
@@ -58,7 +57,7 @@ h1{
     text-align: center;
 }
 .para{
-    text-align:start;
+    text-align: center;
     font-size: 15px;
     font-weight: lighter;
     font-family: cursive;

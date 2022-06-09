@@ -15,7 +15,7 @@ body {
   font-family: Arial;
 }
 .menu{
-  margin:25px;
+  margin:10px;
   font-size:x-large;
 }
 .footer{
@@ -28,8 +28,8 @@ body {
   float: none;
 }
 .footer ul{
-  padding:0;
-    list-style:none;
+  
+  list-style:none;
   text-aling:start;
 }
 .footer a{

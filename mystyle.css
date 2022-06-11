@@ -4,7 +4,7 @@
   
 }
 .b_name{
-  font-size:xx-large;
+  font-size:small;
 
 }
 .brand {
@@ -45,7 +45,8 @@ body {
    
    
     border-top: 1px solid rgb(224, 215, 215);
-    
+    padding-top:10px;
+    padding-bottom:10px;
     text-align: center;
     background-color: black;
     color:ivory;
@@ -76,7 +77,7 @@ h1{
 .logo{
 
   
-  width:50px;
+  width:65px;
  height:65px;
  
 }

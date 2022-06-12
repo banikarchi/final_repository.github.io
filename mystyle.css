@@ -100,3 +100,6 @@ header{
   margin-left: auto;
   margin-right: auto;
 }
+a:hover {
+  text-decoration: none;
+}

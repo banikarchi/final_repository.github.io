@@ -17,6 +17,7 @@ body {
 .menu{
   margin:10px;
   font-size:large;
+  text-decoration: none;
 }
 .footer{
   background-color: black;

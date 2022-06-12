@@ -41,6 +41,7 @@ body {
 }
 .footer a:hover {
   opacity:1;
+  color: white;
 }
 
 .site-footer__legal-info {

@@ -78,15 +78,11 @@ h1{
 
 .logo{
 
-  
-  width:65px;
+ width:65px;
  height:65px;
  
 }
-.icon{
-  background-color: antiquewhite;
-  color: antiquewhite;
-}
+
 header{
   margin-top: 1.0rem;
 }
@@ -102,4 +98,5 @@ header{
 }
 a:hover {
   text-decoration: none;
+  color: black;
 }
